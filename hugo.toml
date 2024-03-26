@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'HEXED Workshop'
+theme = "hugo-theme-monochrome"
