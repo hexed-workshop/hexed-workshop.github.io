@@ -16,7 +16,7 @@ weight = 1
 
 [[menu.navbar]]
 identifier = "call-for-papers"
-name = "Call for Papers"
+name = "Call for papers"
 url = "/call-for-papers/"
 weight = 2
 
