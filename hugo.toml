@@ -1,4 +1,33 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://hexed-workshop.github.io/'
 languageCode = 'en-us'
 title = 'HEXED Workshop'
 theme = "hugo-theme-monochrome"
+
+[params]
+footer = 'Copyright © 2024'
+enable_toc = false
+
+
+[[menu.navbar]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.navbar]]
+identifier = "call-for-papers"
+name = "Call for Papers"
+url = "/call-for-papers/"
+weight = 2
+
+[[menu.navbar]]
+identifier = "schedule"
+name = "Schedule"
+url = "/schedule/"
+weight = 3
+
+[[menu.navbar]]
+identifier = "people"
+name = "People"
+url = "/people/"
+weight = 4
