@@ -20,16 +20,16 @@ menu: navbar
 
 ## Program committee
 
-- **Cristina Conati**, Professor of Computer Science, The University of British Columbia, Canada
+- **Giora Alexandron**, Assistant Professor, Weizmann Institute of Science, Israel
 - **Ryan Baker**, Professor, University of Pennsylvania, USA
-- **Anna Rafferty**, Associate Professor of Computer Science, Carleton College, USA
 - **Anthony Botelho**, Assistant Professor of Educational Technology, University of Florida, USA
 - **Nigel Bosch**, Assistant Professor of Information Sciences, University of Illinois Urbana-Champaign, USA
-- **Giora Alexandron**, Assistant Professor, Weizmann Institute of Science, Israel
-- **Mirko Marras**, Assistant Professor, University of Cagliari, Italy
-- **Diego Zapata**-Rivera, Director of LAFI research center, Educational Testing Service, USA
-- **Ashish Gurung**, Postdoctoral Researcher, Carnegie Mellon University, USA
+- **Cristina Conati**, Professor of Computer Science, The University of British Columbia, Canada
 - **Jibril Frej**, Postdoctoral Researcher, EPFL, Switzerland
+- **Ashish Gurung**, Postdoctoral Researcher, Carnegie Mellon University, USA
 - **Paul Hur**, PhD Student, University of Illinois Urbana-Champaign, USA
-- **Yang Shi**, PhD Student, North Carolina State University, USA
 - **HaeJin Lee**, PhD Student, University of Illinois Urbana-Champaign, USA
+- **Mirko Marras**, Assistant Professor, University of Cagliari, Italy
+- **Anna Rafferty**, Associate Professor of Computer Science, Carleton College, USA
+- **Yang Shi**, PhD Student, North Carolina State University, USA
+- **Diego Zapata**-Rivera, Director of LAFI research center, Educational Testing Service, USA
