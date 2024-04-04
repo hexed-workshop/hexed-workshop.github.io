@@ -1,6 +1,6 @@
 # Schedule
 
-The following proposed schedule is tentative and may be adjusted based on the number of submissions and the availability of invited speakers.
+The HEXED Workshop will be held on **14 July 2024**. The following proposed schedule is tentative and may be adjusted based on the number of submissions and the availability of invited speakers.
 
 |                 |                                                 |
 |-----------------|-------------------------------------------------|
