@@ -7,26 +7,26 @@ Advances in machine learning have led to complex models that are difficult or im
 
 The growing need for interpretable AI in education, along with the increasing awareness of its challenges and implications, calls for a community of experts to work together to:
 
-1. develop a shared vision and common vocabulary,
+1. develop a shared vision and common vocabulary in trustworthy educational data mining,
 2. disseminate work to raise awareness of the need for interpretable AI in education,
-3. create robust methods for increasing interpretability, and
-4. develop evaluation metrics for assessing explanations and model interpretability.
+3. create robust methods for increasing interpretability,
+4. develop evaluation metrics for assessing explanations and model interpretability, and
+5. measure and integrate the perceptions of educational stakeholders (students, teachers, administrators, parents) into trustworthy AI pipelines.
 
 The Human-Centric eXplainable AI in Education (HEXED) Workshop aims to bring together researchers and practitioners from the fields of machine learning and education to discuss the challenges and opportunities of using interpretable machine learning models in education research.
-
 
 
 ## Topics of interest
 
 The workshop will cover a wide range of topics related to interpretable AI in education. These include, but are not limited to:
 
-- The need for greater explainability in education.
-- The case for intrinsic vs. post-hoc explainability.
-- Ensuring explanation fidelity to the model.
-- Designing evaluation metrics and methods for assessing explanations and/or models.
-- Aligning explanations with teachers' and students' needs.
-- Generating actionable explanations as a basis for classroom interventions and personalized learning.
-
+- Enabling trust and transparency in educational models
+- Evaluating student, teacher, and parent perceptions towards AI
+- The case for intrinsic vs. post-hoc explainability
+- Ensuring explanation fidelity to the model
+- Designing evaluation metrics and methods for assessing explanations and/or models
+- Aligning explanations with teachers' and students' needs
+- Generating actionable explanations as a basis for classroom interventions and personalized learning
 
 
 ## Important dates
