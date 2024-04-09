@@ -3,8 +3,6 @@
 
 ## Workshop aims and scope
 
-The Human-Centric eXplainable AI in Education (HEXED) Workshop aims to bring together researchers and practitioners from the fields of machine learning and education to discuss the challenges and opportunities of using interpretable machine learning models in education research.
-
 Advances in machine learning have led to complex models that are difficult or impossible to interpret. This lack of explainability often has multiple causes, such as a large number of parameters, the complexity of the architecture, or the abstract nature of the features used. As education research continues to increasingly rely on such models, this lack of interpretability can further obscure issues pertaining to **fairness, accountability, and actionable insights**. This in turn can lead to a lack of trust among stakeholders, such as students, teachers, and administrators.
 
 The **growing need for interpretable AI in education**, along with the increasing awareness of its challenges and implications, calls for a community of experts to work together to:
@@ -14,6 +12,8 @@ The **growing need for interpretable AI in education**, along with the increasin
 3. create robust methods for increasing interpretability,
 4. develop evaluation metrics for assessing explanations and model interpretability, and
 5. measure and integrate the perceptions of educational stakeholders (students, teachers, administrators, parents) into trustworthy AI pipelines.
+
+The Human-Centric eXplainable AI in Education (HEXED) Workshop aims to bring together researchers and practitioners from the fields of machine learning and education to discuss the challenges and opportunities of using interpretable machine learning models in education research.
 
 
 ## Workshop topics
@@ -31,13 +31,13 @@ The workshop will cover a wide range of topics related to interpretable AI in ed
 
 ## Important dates
 
-- **3 May:** Abstract submission deadline
-- **10 May:** Submission deadline for all papers
+- **3 May:** **Abstract submission deadline**
+- **10 May:** **Submission deadline for all papers**
 - **7 June:** Notification of acceptance
 - **21 June:** Camera-ready submission deadline
 - **14 July:** HEXED Workshop @ EDM 2024 (in-person in Atlanta, Georgia and online)
 
-All deadlines are 11:59pm, AoE time (Anywhere on Earth).
+**All deadlines are 11:59pm, AoE time (Anywhere on Earth).**
 
 
 ## Submission guidelines
