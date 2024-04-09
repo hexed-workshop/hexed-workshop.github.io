@@ -15,8 +15,6 @@ The **growing need for interpretable AI in education**, along with the increasin
 4. develop evaluation metrics for assessing explanations and model interpretability, and
 5. measure and integrate the perceptions of educational stakeholders (students, teachers, administrators, parents) into trustworthy AI pipelines.
 
-The Human-Centric eXplainable AI in Education (HEXED) Workshop aims to bring together researchers and practitioners from the fields of machine learning and education to discuss the challenges and opportunities of using interpretable machine learning models in education research.
-
 
 ## Workshop topics
 
