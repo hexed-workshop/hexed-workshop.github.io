@@ -3,9 +3,11 @@
 
 ## Workshop aims and scope
 
-Advances in machine learning have led to complex models that are difficult or impossible to interpret. This lack of explainability often has multiple causes, such as a large number of parameters, the complexity of the architecture, or the abstract nature of the features used. As education research continues to increasingly rely on such models, this lack of interpretability can further obscure issues pertaining to fairness, accountability, and actionable insights. This in turn can lead to a lack of trust among stakeholders, such as students, teachers, and administrators.
+The Human-Centric eXplainable AI in Education (HEXED) Workshop aims to bring together researchers and practitioners from the fields of machine learning and education to discuss the challenges and opportunities of using interpretable machine learning models in education research.
 
-The growing need for interpretable AI in education, along with the increasing awareness of its challenges and implications, calls for a community of experts to work together to:
+Advances in machine learning have led to complex models that are difficult or impossible to interpret. This lack of explainability often has multiple causes, such as a large number of parameters, the complexity of the architecture, or the abstract nature of the features used. As education research continues to increasingly rely on such models, this lack of interpretability can further obscure issues pertaining to **fairness, accountability, and actionable insights**. This in turn can lead to a lack of trust among stakeholders, such as students, teachers, and administrators.
+
+The **growing need for interpretable AI in education**, along with the increasing awareness of its challenges and implications, calls for a community of experts to work together to:
 
 1. develop a shared vision and common vocabulary in trustworthy educational data mining,
 2. disseminate work to raise awareness of the need for interpretable AI in education,
@@ -16,7 +18,7 @@ The growing need for interpretable AI in education, along with the increasing aw
 The Human-Centric eXplainable AI in Education (HEXED) Workshop aims to bring together researchers and practitioners from the fields of machine learning and education to discuss the challenges and opportunities of using interpretable machine learning models in education research.
 
 
-## Topics of interest
+## Workshop topics
 
 The workshop will cover a wide range of topics related to interpretable AI in education. These include, but are not limited to:
 
@@ -50,13 +52,9 @@ We invite submissions in the following categories:
 - **Position papers (4-6 pages):** Position papers are dedicated to technical and critical views and opinions on explainable AI in education, and should present a novel viewpoint on a problem, or on a novel solution to a problem. They do not need to contain primary research data, but are substantiated by facts or principled arguments to provide new insights or opinions to a debate.
 - **Encore Papers (no page restrictions):** This track is for recently published papers (2022 onwards) relevant to the workshop. Authors submit an abstract and a link or PDF of the recently published work.
 
-Submitted papers should be formatted using the [EDM submission templates available here](https://educationaldatamining.org/edm2024/instructions-for-authors/), and submitted to the [HEXED Workshop on EasyChair](https://easychair.org/my/conference?conf=hexed2024).
+Submitted papers should be formatted using the [EDM submission templates available here](https://educationaldatamining.org/edm2024/instructions-for-authors/), and submitted to the [HEXED Workshop on EasyChair](https://easychair.org/my/conference?conf=hexed2024). Accepted papers will be invited to present at a poster session, and presenters may be invited to give spotlight talks. References do not count towards the page limit. Authors can also include appendices to more clearly describe datasets and tools if necessary, and these do not count toward the page limit.
 
 All submitted papers should be carefully blinded for review. Take care to remove all authors' names and identifying information (e.g. grant numbers), and refer to any of your prior work in the third person (e.g. "Previously, Smith et al. did ... [1]" rather than "In our prior work [1]").
-
-References do not count towards the page limit. Authors can also include appendices to more clearly describe datasets and tools if necessary, and these do not count toward the page limit.
-
-Accepted papers will be invited to present at a poster session, and presenters may be invited to give spotlight talks.
 
 
 ## Attendance
