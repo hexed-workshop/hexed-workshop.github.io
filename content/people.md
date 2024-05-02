@@ -1,9 +1,9 @@
----
-menu: navbar
----
+<div class="color-block content-margin" style="background-color: #dff0d8; color: #3c763d;" >
+    <strong>Note:</strong> The submission deadline has been extended by one week to <strong>10 May</strong> (abstracts) and <strong>17 May</strong> (papers).
+</div>
 
-## Organizers
 
+# Organizers
 
 [**Juan D. Pinto**](https://jdpinto.com) is a PhD student at the University of Illinois Urbana‐Champaign. His research involves the development of learner models using machine learning methods and tackling issues of AI interpretability in education. He is currently conducting work as a member of the Human‐centered Educational Data Science (HEDS) Lab and the NSF AI Institute for Inclusive Intelligent Technologies for Education (INVITE).
 
@@ -18,7 +18,7 @@ menu: navbar
 [**Lea Cohausz**](https://lea-cohausz.github.io) is a PhD student at the University of Mannheim. Her recent work includes research on how demographic variables influence predictions in EDM and the consequences for fairness (EDM 2023) as well as identifying causal structures in educational data and their relationship to algorithmic bias (LAK 2024). She is interested in advancing our understanding of the complex relationships of factors that influence students’ learning outcomes.
 
 
-## Program committee
+# Program committee
 
 - **Giora Alexandron**, Assistant Professor, Weizmann Institute of Science, Israel
 - **Ryan Baker**, Professor, University of Pennsylvania, USA

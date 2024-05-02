@@ -1,3 +1,8 @@
+<div class="color-block content-margin" style="background-color: #dff0d8; color: #3c763d;" >
+    <strong>Note:</strong> The submission deadline has been extended by one week to <strong>10 May</strong> (abstracts) and <strong>17 May</strong> (papers).
+</div>
+
+
 # Call for papers
 
 
@@ -31,8 +36,8 @@ The workshop will cover a wide range of topics related to interpretable AI in ed
 
 ## Important dates
 
-- **3 May:** **Abstract submission deadline**
-- **10 May:** **Submission deadline for all papers**
+- **10 May** (extended from ~~3 May~~): **Abstract submission deadline**
+- **17 May** (extended from ~~10 May~~): **Submission deadline for all papers**
 - **7 June:** Notification of acceptance
 - **21 June:** Camera-ready submission deadline
 - **14 July:** HEXED Workshop @ EDM 2024 (in-person in Atlanta, Georgia and online)
@@ -42,7 +47,7 @@ The workshop will cover a wide range of topics related to interpretable AI in ed
 
 ## Submission guidelines
 
-All papers must be submitted by 10 May 2024 AoE (anywhere on Earth).
+All papers must be submitted by ~~10 May~~ 17 May 2024 AoE (anywhere on Earth).
 
 We invite submissions in the following categories:
 
