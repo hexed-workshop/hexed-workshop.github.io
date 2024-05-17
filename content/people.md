@@ -32,4 +32,4 @@
 - **Mirko Marras**, Assistant Professor, University of Cagliari, Italy
 - **Anna Rafferty**, Associate Professor of Computer Science, Carleton College, USA
 - **Yang Shi**, PhD Student, North Carolina State University, USA
-- **Diego Zapata**-Rivera, Director of LAFI research center, Educational Testing Service, USA
+- **Diego Zapata-Rivera**, Director of LAFI research center, Educational Testing Service, USA
