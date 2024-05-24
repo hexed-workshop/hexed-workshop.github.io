@@ -1,8 +1,3 @@
-<div class="color-block content-margin" style="background-color: #dff0d8; color: #3c763d;" >
-    <strong>Note:</strong> The submission deadline has been extended by one week to <strong>10 May</strong> (abstracts) and <strong>17 May</strong> (papers).
-</div>
-
-
 # Call for papers
 
 

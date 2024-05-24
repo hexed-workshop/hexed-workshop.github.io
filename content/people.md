@@ -1,8 +1,3 @@
-<div class="color-block content-margin" style="background-color: #dff0d8; color: #3c763d;" >
-    <strong>Note:</strong> The submission deadline has been extended by one week to <strong>10 May</strong> (abstracts) and <strong>17 May</strong> (papers).
-</div>
-
-
 # Organizers
 
 [**Juan D. Pinto**](https://jdpinto.com) is a PhD student at the University of Illinois Urbana‐Champaign. His research involves the development of learner models using machine learning methods and tackling issues of AI interpretability in education. He is currently conducting work as a member of the Human‐centered Educational Data Science (HEDS) Lab and the NSF AI Institute for Inclusive Intelligent Technologies for Education (INVITE).

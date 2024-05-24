@@ -1,8 +1,3 @@
-<div class="color-block content-margin" style="background-color: #dff0d8; color: #3c763d;" >
-    <strong>Note:</strong> The submission deadline has been extended by one week to <strong>10 May</strong> (abstracts) and <strong>17 May</strong> (papers).
-</div>
-
-
 # Schedule
 
 The HEXED Workshop will be held on **14 July 2024**. The following proposed schedule is tentative and may be adjusted based on the number of submissions and the availability of invited speakers.

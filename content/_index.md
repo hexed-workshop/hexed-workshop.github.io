@@ -1,8 +1,3 @@
-<div class="color-block content-margin" style="background-color: #dff0d8; color: #3c763d;" >
-    <strong>Note:</strong> The submission deadline has been extended by one week to <strong>10 May</strong> (abstracts) and <strong>17 May</strong> (papers).
-</div>
-
-
 The **HEXED (Human-Centric eXplainable AI in Education) Workshop** will be held in conjunction with [EDM (Educational Data Mining) 2024](https://educationaldatamining.org/edm2024/). The workshop aims to bring together a specialized community of researchers who can work together to (1) develop a shared vision and common vocabulary for XAI in education, (2) share and disseminate work, (3) create robust methods for increasing interpretability, and (4) develop evaluation metrics for assessing explanations and model interpretability. We plan to achieve this through lively debate and discussion surrounding the current and future needs of the community.
 
 The workshop will be held on **14 July 2024** in Atlanta, Georgia, USA. This will be a full-day **hybrid** workshop and will feature a mix of poster presentations, a lively panel discussion, and interactive sessions to facilitate collaboration.
