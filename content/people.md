@@ -24,7 +24,6 @@
 - **Ryan Baker**, Professor, University of Pennsylvania, USA
 - **Anthony Botelho**, Assistant Professor of Educational Technology, University of Florida, USA
 - **Nigel Bosch**, Assistant Professor of Information Sciences, University of Illinois Urbana-Champaign, USA
-- **Cristina Conati**, Professor of Computer Science, The University of British Columbia, Canada
 - **Jibril Frej**, Postdoctoral Researcher, EPFL, Switzerland
 - **Ashish Gurung**, Postdoctoral Researcher, Carnegie Mellon University, USA
 - **Paul Hur**, PhD Student, University of Illinois Urbana-Champaign, USA
