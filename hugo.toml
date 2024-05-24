@@ -21,16 +21,22 @@ url = "/call-for-papers/"
 weight = 2
 
 [[menu.navbar]]
+identifier = "review-guidelines"
+name = "Review guidelines"
+url = "/review-guidelines/"
+weight = 3
+
+[[menu.navbar]]
 identifier = "schedule"
 name = "Schedule"
 url = "/schedule/"
-weight = 3
+weight = 4
 
 [[menu.navbar]]
 identifier = "people"
 name = "People"
 url = "/people/"
-weight = 4
+weight = 5
 
 [markup]
   [markup.goldmark]
