@@ -7,7 +7,7 @@ We are committed to setting a high standard of quality and integrity for the HEX
 
 With these goals in mind, we request that all reviewers follow the review guidelines below (modified from the [EDM 2024 guidelines](https://educationaldatamining.org/edm2024/review-guidelines/)).
 
-## Reviews should include:
+## Reviews should include
 
 - A total of 200-500 words of detailed feedback that give a complete assessment of a submission that contains rationale that explain recommendations and concerns. Please aim to write the kind you would like to receive for your own work. Please avoid very short reviews, they are frustrating for authors and detrimental to the overall review process.
 - The review should include:
