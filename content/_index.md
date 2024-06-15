@@ -10,7 +10,7 @@ The workshop will be held from 9:00am to 4:45pm. [Click here](/schedule) for the
 
 ## Registration
 
-The registration will be managed by the EDM 2024 main conference organization at <https://educationaldatamining.org/edm2024/>. Registration is yet to open.
+The registration will be managed by the EDM 2024 main conference organization at <https://educationaldatamining.org/edm2024/>. To register, click the blue "Register now!" button on their homepage.
 
 
 ## Organizers
