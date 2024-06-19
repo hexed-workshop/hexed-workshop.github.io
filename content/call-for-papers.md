@@ -33,8 +33,8 @@ The workshop will cover a wide range of topics related to interpretable AI in ed
 
 - **10 May** (extended from ~~3 May~~): **Abstract submission deadline**
 - **17 May** (extended from ~~10 May~~): **Submission deadline for all papers**
-- **18 June:** Notification of acceptance
-- **28 June:** Camera-ready submission deadline
+- **19 June:** Notification of acceptance
+- **29 June:** Camera-ready submission deadline
 - **14 July:** HEXED Workshop @ EDM 2024 (in-person in Atlanta, Georgia and online)
 
 **All deadlines are 11:59pm, AoE time (Anywhere on Earth).**
