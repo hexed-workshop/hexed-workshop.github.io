@@ -5,7 +5,7 @@ The workshop will be held on **14 July 2024** in Atlanta, Georgia, USA. This wil
 
 ## Schedule
 
-The workshop will be held from 9:00am to 4:45pm. [Click here](/schedule) for the tentative schedule.
+The workshop will be held from 9:00am to 5:00pm. [Click here](/schedule) for the schedule and accepted papers.
 
 
 ## Registration
