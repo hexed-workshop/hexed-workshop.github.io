@@ -15,3 +15,25 @@ The HEXED Workshop will be held on **Sunday, 14 July 2024 9:00AM–5:00PM UTC-4 
 | 3:30–4:00pm     | Break + networking                            |
 | 4:00–4:45pm     | Working session 3: Creating a shared vision   |
 | 4:45–5:00pm     | Closing thoughts                              |
+
+
+
+## Accepted papers
+
+### Research papers
+
+- **The Actionable Explanations for Student Success Prediction Models: A Benchmark Study on the Quality of Counterfactual Methods**</br>*Mustafa Cavus and Jakub Kuzilek*
+- **Enhancing Explainability of Knowledge Learning Paths: Causal Knowledge Networks**</br>*Yuang Wei, Yizhou Zhou, Yuan-Hao Jiang and Bo Jiang*
+- **Combining Cognitive and Generative AI for Self-Explanation in Interactive AI Agents**</br>*Shalini Sushri, Rahul Dass, Rhea Basappa, Hong Lu and Ashok Goel*
+
+### Position papers
+
+- **Towards a Unified Framework for Evaluating Explanations** </br>*Juan Pinto and Luc Paquette*
+
+
+## Encore papers
+
+- **Making Course Recommendation Explainable: A Knowledge Entity-Aware Model using Deep Learning**</br>*Tianyuan Yang, Baofeng Ren, Boxuan Ma, Md Akib Zabed Khan, Tianjia He and Shin’Ichi Konomi*
+- **How Ready Are Generative Pre-trained Large Language Models for Explaining Bengali Grammatical Errors?**</br>*Subhankar Maity, Aniket Deroy and Sudeshna Sarkar*
+- **Easing the Prediction of Student Dropout for everyone by integrating AutoML and Explainable Artificial Intelligence**</br>*Pamela Buñay-Guisñan, Juan Alfonso Lara, Alberto Cano, Rebeca Cerezo and Cristóbal Romero*
+- **Evaluating the Explainers: Black-Box Explainable Machine Learning for Student Success Prediction in MOOCs**</br>*Vinitra Swamy, Bahar Radmehr, Natasa Krco, Mirko Marras and Tanja Käser*
