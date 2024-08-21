@@ -44,7 +44,11 @@ The HEXED Workshop was held on **Sunday, 14 July 2024 9:00AM–5:00PM UTC-4 (US-
 
 ## Encore papers
 
-- **Making Course Recommendation Explainable: A Knowledge Entity-Aware Model using Deep Learning**</br>*Tianyuan Yang, Baofeng Ren, Boxuan Ma, Md Akib Zabed Khan, Tianjia He and Shin’Ichi Konomi*
-- **How Ready Are Generative Pre-trained Large Language Models for Explaining Bengali Grammatical Errors?**</br>*Subhankar Maity, Aniket Deroy and Sudeshna Sarkar*
-- **Easing the Prediction of Student Dropout for everyone by integrating AutoML and Explainable Artificial Intelligence**</br>*Pamela Buñay-Guisñan, Juan Alfonso Lara, Alberto Cano, Rebeca Cerezo and Cristóbal Romero*
-- **Evaluating the Explainers: Black-Box Explainable Machine Learning for Student Success Prediction in MOOCs**</br>*Vinitra Swamy, Bahar Radmehr, Natasa Krco, Mirko Marras and Tanja Käser*
+- **Making Course Recommendation Explainable: A Knowledge Entity-Aware Model using Deep Learning** [<a href="https://educationaldatamining.org/edm2024/proceedings/2024.EDM-posters.69/index.html" target="_blank">paper @ EDM proceedings</a>]\
+*Tianyuan Yang, Baofeng Ren, Boxuan Ma, Md Akib Zabed Khan, Tianjia He and Shin’Ichi Konomi*
+- **How Ready Are Generative Pre-trained Large Language Models for Explaining Bengali Grammatical Errors?** [<a href="https://educationaldatamining.org/edm2024/proceedings/2024.EDM-posters.70/index.html" target="_blank">paper @ EDM proceedings</a>]\
+*Subhankar Maity, Aniket Deroy and Sudeshna Sarkar*
+- **Easing the Prediction of Student Dropout for everyone by integrating AutoML and Explainable Artificial Intelligence** [<a href="https://educationaldatamining.org/edm2024/proceedings/2024.EDM-posters.98/index.html" target="_blank">paper @ EDM proceedings</a>]\
+*Pamela Buñay-Guisñan, Juan Alfonso Lara, Alberto Cano, Rebeca Cerezo and Cristóbal Romero*
+- **Evaluating the Explainers: Black-Box Explainable Machine Learning for Student Success Prediction in MOOCs** [<a href="https://educationaldatamining.org/edm2022/proceedings/2022.EDM-long-papers.9/" target="_blank">paper @ EDM proceedings</a>]\
+*Vinitra Swamy, Bahar Radmehr, Natasa Krco, Mirko Marras and Tanja Käser*
