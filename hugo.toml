@@ -33,10 +33,16 @@ url = "/schedule/"
 weight = 4
 
 [[menu.navbar]]
+identifier = "proceedings"
+name = "Proceedings"
+url = "https://ceur-ws.org/Vol-3840/"
+weight = 5
+
+[[menu.navbar]]
 identifier = "people"
 name = "People"
 url = "/people/"
-weight = 5
+weight = 6
 
 [markup]
   [markup.goldmark]

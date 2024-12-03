@@ -1,11 +1,6 @@
-<div class="color-block content-margin" style="border: 2px solid #3c763d;" >
-<p>Thank you to all participants, presenters, and attendees for making HEXED 2024 a success! We look forward to seeing you at future events. If you'd like to be added to our mailing list, please <a href="mailto:jdpinto2@illinois.edu">email Juan Pinto</a>.</p>
-
-<a href="https://tinyurl.com/hexed2024" target="_blank">Resources working doc</a>
-</div>
-
-
 # Schedule
+
+- <a href="https://tinyurl.com/hexed2024" target="_blank">Resources working doc</a>
 
 The HEXED Workshop was held on **Sunday, 14 July 2024 9:00AM–5:00PM UTC-4 (US-East)**. The schedule was as follows:
 
@@ -27,18 +22,21 @@ The HEXED Workshop was held on **Sunday, 14 July 2024 9:00AM–5:00PM UTC-4 (US-
 
 ## Accepted papers
 
+The official joint proceedings (with the [L3MNGET Workshop](https://sites.google.com/view/llmworkshopedm/home)) can be found at [CEUR-WS here](https://ceur-ws.org/Vol-3840/).
+
+
 ### Research papers
 
-- **The Actionable Explanations for Student Success Prediction Models: A Benchmark Study on the Quality of Counterfactual Methods** [<a href="/papers/HEXED_2024_paper_5.pdf" target="_blank">paper</a>]\
+- **The Actionable Explanations for Student Success Prediction Models: A Benchmark Study on the Quality of Counterfactual Methods** [<a href="https://ceur-ws.org/Vol-3840/HEXED24_paper1.pdf" target="_blank">paper @ CEUR-WS</a>]\
 *Mustafa Cavus and Jakub Kuzilek*
-- **Enhancing Explainability of Knowledge Learning Paths: Causal Knowledge Networks** [<a href="/papers/HEXED_2024_paper_7.pdf" target="_blank">paper</a>]\
+- **Enhancing Explainability of Knowledge Learning Paths: Causal Knowledge Networks** [<a href="https://ceur-ws.org/Vol-3840/HEXED24_paper2.pdf" target="_blank">paper @ CEUR-WS</a>]\
 *Yuang Wei, Yizhou Zhou, Yuan-Hao Jiang and Bo Jiang*
-- **Combining Cognitive and Generative AI for Self-Explanation in Interactive AI Agents** [<a href="/papers/HEXED_2024_paper_10.pdf" target="_blank">paper</a>]\
+- **Combining Cognitive and Generative AI for Self-Explanation in Interactive AI Agents** [<a href="https://ceur-ws.org/Vol-3840/HEXED24_paper3.pdf" target="_blank">paper @ CEUR-WS</a>]\
 *Shalini Sushri, Rahul Dass, Rhea Basappa, Hong Lu and Ashok Goel*
 
 ### Position papers
 
-- **Towards a Unified Framework for Evaluating Explanations** [<a href="/papers/HEXED_2024_paper_8.pdf" target="_blank">paper</a>]\
+- **Towards a Unified Framework for Evaluating Explanations** [<a href="https://ceur-ws.org/Vol-3840/HEXED24_paper4.pdf" target="_blank">paper @ CEUR-WS</a>]\
 *Juan Pinto and Luc Paquette*
 
 
