@@ -57,7 +57,7 @@ All submitted papers should be carefully blinded for review. Take care to remove
 
 ## Attendance
 
-Accepted authors and all other attendees (both in-person and remote) will be required to register for the workshop. Registration will be managed by the EDM 2024 main conference organization at <https://educationaldatamining.org/edm2025/>. Registration is yet to open.
+Accepted authors and all other attendees (both in-person and remote) will be required to register for the workshop. Registration will be managed by the EDM 2025 main conference organization at <https://educationaldatamining.org/edm2025/>. Registration is yet to open.
 
 
 ## Publication
