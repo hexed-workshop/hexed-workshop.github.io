@@ -31,18 +31,18 @@ The workshop will cover a wide range of topics related to interpretable AI in ed
 
 ## Important dates
 
-- **10 May** (extended from ~~3 May~~): **Abstract submission deadline**
-- **17 May** (extended from ~~10 May~~): **Submission deadline for all papers**
-- **19 June:** Notification of acceptance
-- **29 June:** Camera-ready submission deadline
-- **14 July:** HEXED Workshop @ EDM 2024 (in-person in Atlanta, Georgia and online)
+- **17 May**: **Abstract submission deadline**
+- **24 May**: **Submission deadline for all papers**
+- **26 June:** Notification of acceptance
+- **06 July:** Camera-ready submission deadline
+- **20 July:** HEXED Workshop @ EDM 2025 (in-person in Palermo, Italy and online)
 
 **All deadlines are 11:59pm, AoE time (Anywhere on Earth).**
 
 
 ## Submission guidelines
 
-All papers must be submitted by ~~10 May~~ 17 May 2024 AoE (anywhere on Earth).
+All papers must be submitted by 24 May 2025 AoE (anywhere on Earth).
 
 We invite submissions in the following categories:
 
@@ -50,14 +50,14 @@ We invite submissions in the following categories:
 - **Position papers (4-6 pages):** Position papers are dedicated to technical and critical views and opinions on explainable AI in education, and should present a novel viewpoint on a problem, or on a novel solution to a problem. They do not need to contain primary research data, but are substantiated by facts or principled arguments to provide new insights or opinions to a debate.
 - **Encore Papers (no page restrictions):** This track is for recently published papers (2022 onwards) relevant to the workshop. Authors submit an abstract and a link or PDF of the recently published work.
 
-Submitted papers should be formatted using the [EDM submission templates available here](https://educationaldatamining.org/edm2024/instructions-for-authors/), and submitted to the [HEXED Workshop on EasyChair](https://easychair.org/my/conference?conf=hexed2024). Accepted papers will be invited to present at a poster session, and presenters may be invited to give spotlight talks. References do not count towards the page limit. Authors can also include appendices to more clearly describe datasets and tools if necessary, and these do not count toward the page limit.
+Submitted papers should be formatted using the [EDM submission templates available here](https://educationaldatamining.org/edm2025/instructions-for-authors/), and submitted to the [HEXED Workshop on EasyChair](https://easychair.org/my/conference?conf=hexed2025). Accepted papers will be invited to present at a poster session, and presenters may be invited to give spotlight talks. References do not count towards the page limit. Authors can also include appendices to more clearly describe datasets and tools if necessary, and these do not count toward the page limit.
 
 All submitted papers should be carefully blinded for review. Take care to remove all authors' names and identifying information (e.g. grant numbers), and refer to any of your prior work in the third person (e.g. "Previously, Smith et al. did ... [1]" rather than "In our prior work [1]").
 
 
 ## Attendance
 
-Accepted authors and all other attendees (both in-person and remote) will be required to register for the workshop. Registration will be managed by the EDM 2024 main conference organization at <https://educationaldatamining.org/edm2024/>. Registration is yet to open.
+Accepted authors and all other attendees (both in-person and remote) will be required to register for the workshop. Registration will be managed by the EDM 2024 main conference organization at <https://educationaldatamining.org/edm2025/>. Registration is yet to open.
 
 
 ## Publication

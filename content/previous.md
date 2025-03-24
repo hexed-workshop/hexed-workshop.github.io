@@ -1,8 +1,19 @@
-# Schedule
+# 1st HEXED (The 1st Human-Centric eXplainable AI in Education) Workshop
 
-To be announced.
+The **HEXED (Human-Centric eXplainable AI in Education) Workshop** was held in conjunction with [EDM (Educational Data Mining) 2024](https://educationaldatamining.org/edm2024/). The workshop aimed to bring together a specialized community of researchers who can work together to (1) develop a shared vision and common vocabulary for XAI in education, (2) share and disseminate work, (3) create robust methods for increasing interpretability, and (4) develop evaluation metrics for assessing explanations and model interpretability. We planned to achieve this through lively debate and discussion surrounding the current and future needs of the community.
 
-<!--
+The workshop was held on **14 July 2024** in Atlanta, Georgia, USA. This is a full-day **hybrid** workshop and will feature a mix of poster presentations, a lively panel discussion, and interactive sessions to facilitate collaboration.
+
+
+## Proceedings
+
+The official joint proceedings (with the [L3MNGET Workshop](https://sites.google.com/view/llmworkshopedm/home)) can be found at [CEUR-WS here](https://ceur-ws.org/Vol-3840/).
+
+
+## Schedule
+
+The workshop was held from 9:00am to 5:00pm.
+
 - <a href="https://tinyurl.com/hexed2024" target="_blank">Resources working doc</a>
 
 The HEXED Workshop was held on **Sunday, 14 July 2024 9:00AM–5:00PM UTC-4 (US-East)**. The schedule was as follows:
@@ -20,8 +31,6 @@ The HEXED Workshop was held on **Sunday, 14 July 2024 9:00AM–5:00PM UTC-4 (US-
 | 3:30–4:00pm     | Break + networking                                |
 | 4:00–4:45pm     | **Working session 3: Creating a shared vision**   |
 | 4:45–5:00pm     | **Closing thoughts**                              |
-
-
 
 ## Accepted papers
 
@@ -43,7 +52,7 @@ The official joint proceedings (with the [L3MNGET Workshop](https://sites.google
 *Juan Pinto and Luc Paquette*
 
 
-## Encore papers
+### Encore papers
 
 - **Making Course Recommendation Explainable: A Knowledge Entity-Aware Model using Deep Learning** [<a href="https://educationaldatamining.org/edm2024/proceedings/2024.EDM-posters.69/index.html" target="_blank">paper @ EDM proceedings</a>]\
 *Tianyuan Yang, Baofeng Ren, Boxuan Ma, Md Akib Zabed Khan, Tianjia He and Shin’Ichi Konomi*
@@ -54,4 +63,18 @@ The official joint proceedings (with the [L3MNGET Workshop](https://sites.google
 - **Evaluating the Explainers: Black-Box Explainable Machine Learning for Student Success Prediction in MOOCs** [<a href="https://educationaldatamining.org/edm2022/proceedings/2022.EDM-long-papers.9/" target="_blank">paper @ EDM proceedings</a>]\
 *Vinitra Swamy, Bahar Radmehr, Natasa Krco, Mirko Marras and Tanja Käser*
 
--->
+## Registration
+
+The registration was managed by the EDM 2024 main conference organization at <https://educationaldatamining.org/edm2024/>. Registration is now closed.
+
+
+## Organizers
+
+The workshop organizers are listed below. [Click here](/people) to learn more about them or to see the full program committee.
+
+- [Juan D. Pinto](https://jdpinto.com), University of Illinois Urbana‐Champaign
+- [Luc Paquette](https://education.illinois.edu/faculty/luc-paquette), University of Illinois Urbana-Champaign
+- [Vinitra Swamy](https://vinitra.github.io), EPFL
+- [Tanja Käser](https://people.epfl.ch/tanja.kaeser/?lang=en), EPFL
+- [Qianhui (Sophie) Liu](https://education.illinois.edu/people/sophie-liu), University of Illinois Urbana-Champaign
+- [Lea Cohausz](https://lea-cohausz.github.io), University of Mannheim

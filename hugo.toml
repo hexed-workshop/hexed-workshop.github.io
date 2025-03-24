@@ -4,7 +4,7 @@ title = 'HEXED Workshop'
 theme = "hugo-theme-monochrome"
 
 [params]
-footer = 'Copyright © 2024'
+footer = 'Copyright © 2025'
 enable_toc = false
 
 
@@ -35,7 +35,7 @@ weight = 4
 [[menu.navbar]]
 identifier = "proceedings"
 name = "Proceedings"
-url = "https://ceur-ws.org/Vol-3840/"
+url = "/proceedings/"
 weight = 5
 
 [[menu.navbar]]
@@ -43,6 +43,12 @@ identifier = "people"
 name = "People"
 url = "/people/"
 weight = 6
+
+[[menu.navbar]]
+identifier = "previous-workshops"
+name = "Previous workshops"
+url = "/previous/"
+weight = 7
 
 [markup]
   [markup.goldmark]

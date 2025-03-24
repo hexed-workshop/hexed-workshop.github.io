@@ -1,30 +1,41 @@
-The **HEXED (Human-Centric eXplainable AI in Education) Workshop** was held in conjunction with [EDM (Educational Data Mining) 2024](https://educationaldatamining.org/edm2024/). The workshop aimed to bring together a specialized community of researchers who can work together to (1) develop a shared vision and common vocabulary for XAI in education, (2) share and disseminate work, (3) create robust methods for increasing interpretability, and (4) develop evaluation metrics for assessing explanations and model interpretability. We planned to achieve this through lively debate and discussion surrounding the current and future needs of the community.
+The **The 2nd Human-Centric eXplainable AI in Education (HEXED) Workshop** was held in conjunction with [EDM (Educational Data Mining) 2025](https://educationaldatamining.org/edm2025/). The workshop aims to bring together a specialized community of researchers who can work together to (1) establish a shared vision and common vocabulary for XAI in education, (2) facilitate the exchange of recent research and best practices, (3) brainstorm practical methods to enhance model transparency that are specific to the education domain, and (4) define evaluation metrics for assessing explanations and interpretability with teachers, students, and parents. We plan to achieve this through lively debate and discussion surrounding the current and future needs of the community.
 
-The workshop was held on **14 July 2024** in Atlanta, Georgia, USA. This is a full-day **hybrid** workshop and will feature a mix of poster presentations, a lively panel discussion, and interactive sessions to facilitate collaboration.
+The workshop will be held on **20 July 2024** in Palermo, Italy. This is a full-day **hybrid** workshop and will feature a mix of poster presentations, a lively panel discussion, and interactive sessions to facilitate collaboration.
+
+## Themes
+
+- The need for greater explainability in education.
+- The case for intrinsic vs. post-hoc explainability.
+- Ensuring explanation faithfulness.
+- Designing evaluation metrics and methods for assessing explanations and/or models.
+- Aligning explanations with teachers' and students' needs.
+- Generating actionable explanations as a basis for classroom interventions and personalized learning.
+- The role of LLMs in Explainable AI. 
 
 
 ## Proceedings
 
-The official joint proceedings (with the [L3MNGET Workshop](https://sites.google.com/view/llmworkshopedm/home)) can be found at [CEUR-WS here](https://ceur-ws.org/Vol-3840/).
+To be announced.
 
 
 ## Schedule
 
-The workshop was held from 9:00am to 5:00pm. [Click here](/schedule) for the schedule and accepted papers.
+The workshop will be held from 9:00am to 5:00pm. [Click here](/schedule) for the schedule and accepted papers.
 
 
 ## Registration
 
-The registration was managed by the EDM 2024 main conference organization at <https://educationaldatamining.org/edm2024/>. Registration is now closed.
+The registration is managed by the EDM 2025 main conference organization at <https://educationaldatamining.org/edm2025/>. 
 
 
 ## Organizers
 
 The workshop organizers are listed below. [Click here](/people) to learn more about them or to see the full program committee.
 
+- [Vinitra Swamy](https://vinitra.github.io), EPFL
+- [Jakub Kuzilek](https://jakubkuzilek.github.io/), Humboldt-Universität zu Berlin
 - [Juan D. Pinto](https://jdpinto.com), University of Illinois Urbana‐Champaign
 - [Luc Paquette](https://education.illinois.edu/faculty/luc-paquette), University of Illinois Urbana-Champaign
-- [Vinitra Swamy](https://vinitra.github.io), EPFL
 - [Tanja Käser](https://people.epfl.ch/tanja.kaeser/?lang=en), EPFL
 - [Qianhui (Sophie) Liu](https://education.illinois.edu/people/sophie-liu), University of Illinois Urbana-Champaign
 - [Lea Cohausz](https://lea-cohausz.github.io), University of Mannheim

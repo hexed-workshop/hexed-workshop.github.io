@@ -5,7 +5,7 @@ We are committed to setting a high standard of quality and integrity for the HEX
 - To decide fairly whether each paper is worthy of acceptance; and
 - To provide the authors with feedback on how to improve the quality of their research and writing.
 
-With these goals in mind, we request that all reviewers follow the review guidelines below (modified from the [EDM 2024 guidelines](https://educationaldatamining.org/edm2024/review-guidelines/)).
+With these goals in mind, we request that all reviewers follow the review guidelines below (modified from the [EDM 2025 guidelines](https://educationaldatamining.org/edm2025/review-guidelines/)).
 
 ## Reviews should include
 
