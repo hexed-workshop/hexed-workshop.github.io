@@ -12,10 +12,26 @@ The workshop will be held on **20 July 2025** in Palermo, Italy. This is a full-
 - Generating actionable explanations as a basis for classroom interventions and personalized learning.
 - The role of LLMs in Explainable AI. 
 
+## Call for papers
 
+The **growing need for interpretable AI in education**, along with the increasing awareness of its challenges and implications, calls for a community of experts to work together to:
+
+1. develop a shared vision and common vocabulary in trustworthy educational data mining,
+2. disseminate work to raise awareness of the need for interpretable AI in education,
+3. create robust methods for increasing interpretability,
+4. develop evaluation metrics for assessing explanations and model interpretability, and
+5. measure and integrate the perceptions of educational stakeholders (students, teachers, administrators, parents) into trustworthy AI pipelines.
+
+All papers must be submitted by 24 May 2025 AoE (anywhere on Earth).
+
+Submitted papers should be formatted using the [EDM submission templates available here](https://educationaldatamining.org/edm2025/instructions-for-authors/), and submitted to the EasyChair [HEXED Workshop on EasyChair](https://easychair.org/my/conference?conf=hexed2025). Accepted papers will be invited to present at a poster session, and presenters may be invited to give spotlight talks. References do not count towards the page limit. Authors can also include appendices to more clearly describe datasets and tools if necessary, and these do not count toward the page limit.
+
+More details [here](/call-for-papers).
+
+<!--
 ## Proceedings
 
-To be announced.
+To be announced.-->
 
 
 ## Schedule
