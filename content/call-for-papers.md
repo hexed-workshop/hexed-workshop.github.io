@@ -50,7 +50,7 @@ We invite submissions in the following categories:
 - **Position papers (4-6 pages):** Position papers are dedicated to technical and critical views and opinions on explainable AI in education, and should present a novel viewpoint on a problem, or on a novel solution to a problem. They do not need to contain primary research data, but are substantiated by facts or principled arguments to provide new insights or opinions to a debate.
 - **Encore Papers (no page restrictions):** This track is for recently published papers (2022 onwards) relevant to the workshop. Authors submit an abstract and a link or PDF of the recently published work.
 
-Research and Position papers should be formatted using the proper templates available [here](https://educationaldatamining.org/edm2025/instructions-for-authors/). All papers should be submitted to the [HEXED Workshop on EasyChair](https://easychair.org/my/conference?conf=hexed2025).
+Research and Position papers should be formatted using the proper templates available [here](https://hexed-workshop.github.io/submission-templates/). All papers should be submitted to the [HEXED Workshop on EasyChair](https://easychair.org/my/conference?conf=hexed2025).
 
 All submitted papers should be carefully blinded for review. Take care to remove all authors' names and identifying information (e.g. grant numbers), and refer to any of your prior work in the third person (e.g. "Previously, Smith et al. did ... [1]" rather than "In our prior work [1]").
 
@@ -66,4 +66,4 @@ Accepted authors and all other attendees (both in-person and remote) will be req
 
 ## Publication
 
-We plan to publish the Research and Position papers presented at HEXED through the established proceedings publication platform CEUR-WS. Papers will be linked on the workshop website.
+We plan to publish accept Research and Position papers presented at HEXED through the established proceedings publication platform CEUR-WS. Papers will be linked on the workshop website.
