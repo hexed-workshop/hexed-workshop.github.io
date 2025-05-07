@@ -30,6 +30,6 @@
 - **HaeJin Lee**, PhD Student, University of Illinois Urbana-Champaign, USA
 - **Mirko Marras**, Assistant Professor, University of Cagliari, Italy
 - **Anna Rafferty**, Associate Professor of Computer Science, Carleton College, USA
+- **Shradha Sehgal**, Machine Learning Research Engineer, Netflix, USA
 - **Yang Shi**, PhD Student, North Carolina State University, USA
 - **Diego Zapata-Rivera**, Director of LAFI research center, Educational Testing Service, USA
-
