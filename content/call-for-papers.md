@@ -31,8 +31,8 @@ The workshop will cover a wide range of topics related to interpretable AI in ed
 
 ## Important dates
 
-- **17 May**: **Abstract submission deadline**
-- **24 May**: **Submission deadline for all papers**
+- **31 May** (extended from ~~17 May~~): **Abstract submission deadline**
+- **7 June** (extended from ~~24 May~~): **Submission deadline for all papers**
 - **26 June:** Notification of acceptance
 - **06 July:** Camera-ready submission deadline
 - **20 July:** HEXED Workshop @ EDM 2025 (in-person in Palermo, Italy and online)
