@@ -22,7 +22,7 @@ The **growing need for interpretable AI in education**, along with the increasin
 4. develop evaluation metrics for assessing explanations and model interpretability, and
 5. measure and integrate the perceptions of educational stakeholders (students, teachers, administrators, parents) into trustworthy AI pipelines.
 
-All papers must be submitted by 24 May 2025 AoE (anywhere on Earth).
+All papers must be submitted by 7 June (extended from ~~24 May~~) 2025 AoE (anywhere on Earth).
 
 Research and Position papers should be formatted using the proper templates available [here](https://hexed-workshop.github.io/submission-templates/) and submitted to the EasyChair [HEXED Workshop on EasyChair](https://easychair.org/my/conference?conf=hexed2025). Accepted papers will be invited to present at a poster session, and presenters may be invited to give spotlight talks. References do not count towards the page limit. Authors can also include appendices to more clearly describe datasets and tools if necessary, and these do not count toward the page limit.
 
