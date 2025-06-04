@@ -2,6 +2,19 @@ The **2nd Human-Centric eXplainable AI in Education (HEXED) Workshop** will be h
 
 The workshop will be held on **20 July 2025** in Palermo, Italy. This is a full-day **hybrid** workshop and will feature a mix of poster presentations, a lively panel discussion, and interactive sessions to facilitate collaboration.
 
+<div style="border: 2px solid #333; padding: 15px; margin: 10px 0; border-radius: 5px;">
+
+<style>
+[data-theme="dark"] div[style*="border: 2px solid #333"] {
+  border-color: #ccc !important;
+  background-color: rgba(255,255,255,0.05) !important;
+}
+</style>
+
+After the <b>HEXED</b> workshop, attendees interested in diving deeper into the pedagogical and regulatory implications of XAI might find it interesting to attend the half-day <b><a href="https://www.xai-ed.net/">XAI-Ed: Pedagogy-Founded Explainable AI for Transparent, User-Centered AI in Education</a></b> workshop which will take place on July 22nd at <a href="https://aied2025.itd.cnr.it/">AIED 2025 Conference</a>. AIED and EDM are jointly located this year in Palermo and the proceedings of both HEXED and XAI-Ed will be jointly disseminated.
+
+</div>
+
 ## Themes
 
 - The need for greater explainability in education.
