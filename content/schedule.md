@@ -1,29 +1,37 @@
 # Schedule
 
-To be announced.
-
 <!--
 - <a href="https://tinyurl.com/hexed2024" target="_blank">Resources working doc</a>
+-->
 
-The HEXED Workshop was held on **Sunday, 14 July 2024 9:00AM–5:00PM UTC-4 (US-East)**. The schedule was as follows:
+The HEXED Workshop will be held on **Sunday, 20 July 2025 9:00AM–4:45PM UTC+2 (CET)**. 
 
-|                 |                                                   |
-| --------------- | ------------------------------------------------- |
-| 9:00–9:30am     | **Welcome and logistics**                         |
-| 9:30–10:30am    | **Poster session** (+ lightning presentations)    |
-| 10:30–11:00am   | Break + networking                                |
-| 11:00am–12:00pm | **Working session 1: Small group brainstorming**  |
-| 12:00–1:00pm    | Lunch break                                       |
-| 1:00–2:00pm     | **Keynote presentation:** [*Personalized XAI*](/HEXED_2024-keynote_slides.pdf) (Cristina Conati)        |
-| 2:00–2:45pm     | **Working session 2: Framing problems and needs** |
-| 2:45–3:30pm     | **Panel**                                         |
-| 3:30–4:00pm     | Break + networking                                |
-| 4:00–4:45pm     | **Working session 3: Creating a shared vision**   |
-| 4:45–5:00pm     | **Closing thoughts**                              |
+The schedule is as follows:
 
+|                 |                                                                    |
+| --------------- | ------------------------------------------------------------------ |
+| 09:00–09:30am   | **Welcome and opening remarks**                                    |
+| 09:30–10:00am   | **Invited keynote talk**                                           |
+| 10:00–10:30am   | **Working session 1: Framing problems and needs**                  |
+| 10:30–11:00am   | Coffee break                                                       |
+| 11:00–12:15pm   | **Poster Session** + lightning talks                               |
+| 12:15-01:00pm   | **Panel debate: XAI in the age of LLMs**                           |
+| 01:00–02:10pm   | Lunch break                                                        |
+| 02:10-02:15pm   | **Lightning Overview: [XAI-ED workshop](https://www.xai-ed.net/)** |
+| 02:15–02:45pm   | **Working session 2: Breakout group brainstorming**                |
+| 02:45-03:30pm   | **Invited keynote talk (online)**                                  |
+| 03:30–04:00pm   | Coffee break                                                       |
+| 04:00–04:30pm   | **Working session 3: Creating a shared vision**                    |
+| 04:30–04:45pm   | **Closing thoughts**                                               |
+
+\* subject to change
 
 
 ## Accepted papers
+
+To be announced.
+
+<!--
 
 The official joint proceedings (with the [L3MNGET Workshop](https://sites.google.com/view/llmworkshopedm/home)) can be found at [CEUR-WS here](https://ceur-ws.org/Vol-3840/).
 
