@@ -19,7 +19,7 @@ The schedule is as follows:
 | 01:00–02:10pm   | Lunch break                                                        |
 | 02:10-02:15pm   | **Lightning Overview: [XAI-ED workshop](https://www.xai-ed.net/)** |
 | 02:15–02:45pm   | **Working session 2: Breakout group brainstorming**                |
-| 02:45-03:30pm   | **Invited keynote talk (online)**                                  |
+| 02:45-03:30pm   | **Invited keynote talk: [Przemysław Biecek](https://www.mi2.ai/the-team.html#przemys%C5%82aw-biecek) (online)**                                  |
 | 03:30–04:00pm   | Coffee break                                                       |
 | 04:00–04:30pm   | **Working session 3: Creating a shared vision**                    |
 | 04:30–04:45pm   | **Closing thoughts**                                               |
