@@ -11,7 +11,7 @@ The schedule is as follows:
 |                 |                                                                    |
 | --------------- | ------------------------------------------------------------------ |
 | 09:00–09:30am   | **Welcome and opening remarks**                                    |
-| 09:30–10:00am   | **Invited keynote talk**                                           |
+| 09:30–10:00am   | **Invited keynote talk: [Giora Alexandron](https://www.weizmann.ac.il/ScienceTeaching/Alexandron/bio)**                                           |
 | 10:00–10:30am   | **Working session 1: Framing problems and needs**                  |
 | 10:30–11:00am   | Coffee break                                                       |
 | 11:00–12:15pm   | **Poster Session** + lightning talks                               |
