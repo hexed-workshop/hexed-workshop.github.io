@@ -1,10 +1,12 @@
 # Schedule
 
+The HEXED Workshop will be held on **Sunday, 20 July 2025 9:00AM–4:45PM UTC+2 (CET)**. 
+
+**<a href="https://epfl.zoom.us/j/67482001281" target="_blank">Zoom room for online participants</a>**
+
 <!--
 - <a href="https://tinyurl.com/hexed2024" target="_blank">Resources working doc</a>
 -->
-
-The HEXED Workshop will be held on **Sunday, 20 July 2025 9:00AM–4:45PM UTC+2 (CET)**. 
 
 The schedule is as follows:
 
