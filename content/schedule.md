@@ -1,6 +1,6 @@
 # Schedule
 
-The HEXED Workshop will be held on **Sunday, 20 July 2025 9:00AM–4:45PM UTC+2 (CET)**. 
+The HEXED Workshop will be held on **Sunday, 20 July 2025 9:00AM–4:45PM UTC+2 (CET)**.
 
 **<a href="https://epfl.zoom.us/j/67482001281" target="_blank">Zoom room for online participants</a>**
 
@@ -36,19 +36,21 @@ The schedule is as follows:
 
 ### Research papers
 
-- **Explainable Survival Student Dropout Prediction Models: A Case Study on Open University Learning Analytics Dataset** <!--[<a href="https://ceur-ws.org/Vol-3840/HEXED24_paper1.pdf" target="_blank">paper @ CEUR-WS</a>]-->\
+- **Explainable Survival Student Dropout Prediction Models: A Case Study on Open University Learning Analytics Dataset** [<a href="https://drive.google.com/file/d/15-LwZhqxKvsxhDncqyKjdNqKzLysFZNj/view?usp=sharing" target="_blank">paper</a>] <!--[<a href="https://ceur-ws.org/Vol-3840/HEXED24_paper1.pdf" target="_blank">paper @ CEUR-WS</a>]-->\
 *Mustafa Cavus and Jakub Kuzilek*
-- **Human-grounded XAI: An evaluation of explanation faithfulness and intelligibility for interpretable neural networks** <!--[<a href="https://ceur-ws.org/Vol-3840/HEXED24_paper2.pdf" target="_blank">paper @ CEUR-WS</a>]-->\
+- **Human-grounded XAI: An evaluation of explanation faithfulness and intelligibility for interpretable neural networks** [<a href="https://drive.google.com/file/d/1DdwI70b_2qqONDUgfvNxRYu1kIWWkPiv/view?usp=sharing" target="_blank">paper</a>]<!--[<a href="https://ceur-ws.org/Vol-3840/HEXED24_paper2.pdf" target="_blank">paper @ CEUR-WS</a>]-->\
 *Juan Pinto and Luc Paquette*
-- **Human Experts vs. LLMs: Who Is Better at Explaining Student Clustering?** <!--[<a href="https://ceur-ws.org/Vol-3840/HEXED24_paper3.pdf" target="_blank">paper @ CEUR-WS</a>]-->\
+- **Human Experts vs. LLMs: Who Is Better at Explaining Student Clustering?** [<a href="https://drive.google.com/file/d/1DdwI70b_2qqONDUgfvNxRYu1kIWWkPiv/view?usp=sharing" target="_blank">paper</a>]<!--[<a href="https://ceur-ws.org/Vol-3840/HEXED24_paper3.pdf" target="_blank">paper @ CEUR-WS</a>]-->\
 *Elad Yacobson, Shelley Rap, Ron Blonder and Giora Alexandron*
-- **RegKT: Interpretable and robust Deep Knowledge Tracing with IRT-regularizer** <!--[<a href="https://ceur-ws.org/Vol-3840/HEXED24_paper3.pdf" target="_blank">paper @ CEUR-WS</a>]-->\
+- **RegKT: Interpretable and robust Deep Knowledge Tracing with IRT-regularizer** [<a href="https://drive.google.com/file/d/12IMLMyo6cZif12YwxhekrHDI_RMIh04N/view?usp=sharing" target="_blank">paper</a>]<!--[<a href="https://ceur-ws.org/Vol-3840/HEXED24_paper3.pdf" target="_blank">paper @ CEUR-WS</a>]-->\
 *Samuel Girard, Juan Pinto, Jill-Jênn Vie and Amel Bouzeghoub*
 
 ### Encore papers
 
-- **Improving Course Recommendation Systems with Explainable AI: LLM-Based Frameworks and Evaluations** <!--[<a href="https://educationaldatamining.org/edm2024/proceedings/2024.EDM-posters.69/index.html" target="_blank">paper @ EDM proceedings</a>]-->\
+- **Improving Course Recommendation Systems with Explainable AI: LLM-Based Frameworks and Evaluations** [<a href="https://educationaldatamining.org/EDM2025/proceedings/2025.EDM.long-papers.221/index.html" target="_blank">paper @ EDM proceedings</a>]\
 *Jiawei Li, Qianru Lyu, Wei Qiu and Andy W. H. Khong*
+- **A Constraints-Based Approach to Fully Interpretable Neural Networks for Detecting Learner Behaviors** [<a href="https://educationaldatamining.org/EDM2025/proceedings/2025.EDM.long-papers.154/index.html" target="_blank">paper @ EDM proceedings</a>]\
+*Juan D. Pinto & Luc Paquette*
 
 
 <!-- - **How Ready Are Generative Pre-trained Large Language Models for Explaining Bengali Grammatical Errors?** [<a href="https://educationaldatamining.org/edm2024/proceedings/2024.EDM-posters.70/index.html" target="_blank">paper @ EDM proceedings</a>]\
