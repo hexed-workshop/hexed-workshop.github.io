@@ -40,9 +40,9 @@ The schedule is as follows:
 *Mustafa Cavus and Jakub Kuzilek*
 - **Human-grounded XAI: An evaluation of explanation faithfulness and intelligibility for interpretable neural networks** [<a href="https://drive.google.com/file/d/1DdwI70b_2qqONDUgfvNxRYu1kIWWkPiv/view?usp=sharing" target="_blank">paper</a>]<!--[<a href="https://ceur-ws.org/Vol-3840/HEXED24_paper2.pdf" target="_blank">paper @ CEUR-WS</a>]-->\
 *Juan Pinto and Luc Paquette*
-- **Human Experts vs. LLMs: Who Is Better at Explaining Student Clustering?** [<a href="https://drive.google.com/file/d/1DdwI70b_2qqONDUgfvNxRYu1kIWWkPiv/view?usp=sharing" target="_blank">paper</a>]<!--[<a href="https://ceur-ws.org/Vol-3840/HEXED24_paper3.pdf" target="_blank">paper @ CEUR-WS</a>]-->\
+- **Human Experts vs. LLMs: Who Is Better at Explaining Student Clustering?** [<a href="https://drive.google.com/file/d/18YWhfFR46Td9SRmbnoobMPm6Mupj7yQO/view?usp=drive_link" target="_blank">paper</a>]<!--[<a href="https://ceur-ws.org/Vol-3840/HEXED24_paper3.pdf" target="_blank">paper @ CEUR-WS</a>]-->\
 *Elad Yacobson, Shelley Rap, Ron Blonder and Giora Alexandron*
-- **RegKT: Interpretable and robust Deep Knowledge Tracing with IRT-regularizer** [<a href="https://drive.google.com/file/d/18YWhfFR46Td9SRmbnoobMPm6Mupj7yQO/view?usp=drive_link" target="_blank">paper</a>]<!--[<a href="https://ceur-ws.org/Vol-3840/HEXED24_paper3.pdf" target="_blank">paper @ CEUR-WS</a>]-->\
+- **RegKT: Interpretable and robust Deep Knowledge Tracing with IRT-regularizer** [<a href="https://drive.google.com/file/d/12IMLMyo6cZif12YwxhekrHDI_RMIh04N/view?usp=sharing" target="_blank">paper</a>]<!--[<a href="https://ceur-ws.org/Vol-3840/HEXED24_paper3.pdf" target="_blank">paper @ CEUR-WS</a>]-->\
 *Samuel Girard, Juan Pinto, Jill-Jênn Vie and Amel Bouzeghoub*
 
 ### Encore papers
